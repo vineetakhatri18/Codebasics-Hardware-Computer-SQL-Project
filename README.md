@@ -1,1 +1,1 @@
-# Codebasics-Hardware-Computer-SQL-Project
+# AtliQ-Hardware-Computer-Codebasics-SQL-Project
